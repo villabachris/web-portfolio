@@ -26,6 +26,7 @@ h2{
 	letter-spacing: 5px;
 	color: #fffa00;
 	font-weight: bolder;
+	text-shadow: 2px 2px 5px #471700;
 }
 #me{
 	height: 200px;
@@ -53,7 +54,7 @@ h2{
 	width: 450px;
 	margin: 0 auto;
 	text-align: center;
-	background-color:rgba(249, 248, 207, 0.8);
+	background-color:rgba(249, 248, 207, 0.7);
 	border-bottom-left-radius: 5%;
 	border-bottom-right-radius: 5%;
 
