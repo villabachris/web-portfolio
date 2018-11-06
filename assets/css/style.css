@@ -1,12 +1,12 @@
 body{
-	background-image: url(../images/bg2.jpg);
+	background-image: url(../images/bg3.jpg);
 	background-position: center center;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
+	color: #382600; /*off white*/
 	background-repeat: no-repeat;
-	color: #154956; /*off white*/
 	font-family: 'Roboto', sans-serif;
 	margin: 0;
 	padding: 0;
@@ -15,7 +15,7 @@ body{
 
 h1{
 	font-size: 50px;
-	background-color: rgba(109, 171, 242, 0.8);/*#333; off black*/
+	background-color: rgba(249, 248, 207, 0.7);/*#333; off black*/
 	text-transform: uppercase;	
 	letter-spacing: 3px;
 }
@@ -23,7 +23,7 @@ h1{
 h2{
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #0a404f;
+	color: #fffa00;
 }
 #me{
 	height: 200px;
@@ -31,7 +31,7 @@ h2{
 	border-radius: 50%;
 	border-width: 5px;
 	border-style: solid;
-	border-color: #0a404f;
+	border-color: #382600;
 	margin-top: 50px;
 }
 
@@ -41,7 +41,7 @@ h2{
 	width: 800px;
 	margin: 0 auto;
 	font-size: 18px;
-	background-color: rgba(66, 165, 151, 0.5);
+	background-color: rgba(249, 248, 207, 0.7);/*rgba(249, 248, 207, 0.5);*/
 	/*background-color: #333;*/
 	/*opacity: 0.5;*/
 }
@@ -53,10 +53,10 @@ h2{
 	text-align: center; 
 }
 
-.line{
-	background-color: rgba(232, 200, 104, 0.8);
-}
+
 .title{
 	text-align: center;
 	padding: 0;
+	background-color:
+	rgba(249, 248, 207, 0.2); 
 }
