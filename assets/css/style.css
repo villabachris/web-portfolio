@@ -5,7 +5,7 @@ body{
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	color: #382600; /*off white*/
+	color: #333; /*off white*/
 	background-repeat: no-repeat;
 	font-family: 'Roboto', sans-serif;
 	margin: 0;
@@ -18,13 +18,13 @@ h1{
 	/*background-color: rgba(249, 248, 207, 0.7);*//*#333; off black*/
 	text-transform: uppercase;	
 	letter-spacing: 3px;
-	color: #282823;
+	color: #680500;
 }
 
 h2{
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: #fffa00;
+	color: #f7ae60;
 	font-weight: bolder;
 	text-shadow: 2px 2px 5px #471700;
 }
@@ -34,7 +34,7 @@ h2{
 	border-radius: 50%;
 	border-width: 5px;
 	border-style: solid;
-	border-color: #382600;
+	border-color: #b74943;
 	margin-top: 50px;
 }
 
