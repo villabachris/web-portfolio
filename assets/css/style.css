@@ -15,15 +15,17 @@ body{
 
 h1{
 	font-size: 50px;
-	background-color: rgba(249, 248, 207, 0.7);/*#333; off black*/
+	/*background-color: rgba(249, 248, 207, 0.7);*//*#333; off black*/
 	text-transform: uppercase;	
 	letter-spacing: 3px;
+	color: #282823;
 }
 
 h2{
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #fffa00;
+	font-weight: bolder;
 }
 #me{
 	height: 200px;
@@ -48,15 +50,16 @@ h2{
 
 .container{
 
-	width: 100%;
+	width: 50%;
 	margin: 0 auto;
-	text-align: center; 
+	text-align: center;
+	background-color:rgba(249, 248, 207, 0.8);
+
 }
 
 
 .title{
 	text-align: center;
 	padding: 0;
-	background-color:
-	rgba(249, 248, 207, 0.2); 
+	background-color:rgba(249, 248, 207, 0.2); 
 }
