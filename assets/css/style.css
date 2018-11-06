@@ -49,11 +49,14 @@ h2{
 }
 
 .container{
-
-	width: 50%;
+	height: 450px;
+	width: 450px;
 	margin: 0 auto;
 	text-align: center;
 	background-color:rgba(249, 248, 207, 0.8);
+	border-bottom-left-radius: 5%;
+	border-bottom-right-radius: 5%;
+
 
 }
 
