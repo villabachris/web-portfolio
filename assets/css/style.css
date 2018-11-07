@@ -18,7 +18,7 @@ h1{
 	/*background-color: rgba(249, 248, 207, 0.7);*//*#333; off black*/
 	text-transform: uppercase;	
 	letter-spacing: 3px;
-	color: #680500;
+	color: #f2f2f2;
 }
 
 h2{
@@ -33,8 +33,8 @@ h2{
 	width: 200px;
 	border-radius: 50%;
 	border-width: 5px;
-	border-style: solid;
-	border-color: #b74943;
+	/*border-style: solid;
+	border-color: #332424;*//*#b74943;*/
 	margin-top: 50px;
 }
 
@@ -54,7 +54,7 @@ h2{
 	width: 450px;
 	margin: 0 auto;
 	text-align: center;
-	background-color:rgba(249, 248, 207, 0.7);
+	background-image: radial-gradient(circle,#fc8383, #680000);
 	border-bottom-left-radius: 5%;
 	border-bottom-right-radius: 5%;
 
